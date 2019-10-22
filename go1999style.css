@@ -1,0 +1,29 @@
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visited {
+  color: purple;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:hover {
+	color: pink;
+}
+h4 {
+	background-color: #ADD8E6;
+	border: solid 10px #FF1493;
+	border-color: #000000;
+}
+img {
+	align-self: center;
+}
+ol {
+	-moz-column-count: 2;
+	-moz-column-gap: 50px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 50px;
+	column-count: 2;
+	column-gap: 50px;
+}
