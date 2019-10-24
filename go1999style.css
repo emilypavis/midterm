@@ -16,8 +16,6 @@ h4 {
 	border: solid 10px #FF1493;
 	border-color: #000000;
 }
-img {
-	align-self: center;
 }
 ol {
 	-moz-column-count: 2;
@@ -26,4 +24,10 @@ ol {
 	-webkit-column-gap: 50px;
 	column-count: 2;
 	column-gap: 50px;
+}
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
